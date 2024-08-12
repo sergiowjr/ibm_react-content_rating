@@ -17,10 +17,10 @@ class ContentRating extends Component {
          <p>Add text here</p>
          <div className='rating-buttons'>
            <button className='like-button'>
-            like ({this.state.likes})
+            Like ({this.state.likes})
             </button>
             <button className='dislike_button'>
-            dislike ({this.state.dislikes})
+            Dislike ({this.state.dislikes})
             </button>
           </div>
      </div>
